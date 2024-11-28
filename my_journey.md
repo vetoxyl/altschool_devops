@@ -6,3 +6,4 @@ I am learning system md and firewall lessons on 26/11/2024
 
 I am implementing Cis benchmark on my ubuntu server
 
+learn javascript today will attempt the assignment soon
