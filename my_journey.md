@@ -8,4 +8,6 @@ I am implementing Cis benchmark on my ubuntu server
 
 learn javascript today will attempt the assignment soon
 
-wrote my first bashscript today 
+wrote my first bashscript today
+
+did nothing today
