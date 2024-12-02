@@ -11,3 +11,4 @@ learn javascript today will attempt the assignment soon
 wrote my first bashscript today
 
 did nothing today
+teach circle 12 classes
