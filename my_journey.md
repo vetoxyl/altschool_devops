@@ -12,3 +12,5 @@ wrote my first bashscript today
 
 did nothing today
 teach circle 12 classes
+fixed mistakes on the bashscript
+
